@@ -85,7 +85,9 @@ div.enterForm {
 	div.enterForm P {
 		margin: 5px;
 	}
-
+	div.enterForm input{
+		width: 146px;
+	}
 	div.submit {
 		margin-top: 40px;
 		width:192px;
@@ -102,11 +104,11 @@ div.enterForm {
 			font-size: 20px;
 	}
 
-	i#eye {
+		 i{
 		cursor: pointer;
 		color:#32475C;
 		position: absolute;
 		top:112px;
-		left: 156px;		
-	}	
+		left: 156px;
+		}	 
 </style>
